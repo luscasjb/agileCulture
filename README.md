@@ -1,2 +1,0 @@
-# agileCulture
-Created with CodeSandbox
